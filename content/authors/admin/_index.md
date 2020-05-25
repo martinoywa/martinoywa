@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "files/martinoywa_cv.pdf"
+  link: files/martinoywa_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +69,6 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 I'm a student of Computer Science at Laikipia University. My research interests include Deep Learning, Computer Vision and NLP. I lead the AWS Educate Student Club at the campus, which aims at developing students skills in deploying their software on the Cloud.

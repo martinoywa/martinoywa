@@ -51,8 +51,8 @@ social:
 #- icon: research-gate
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: linked-in
-  icon_pack: fas
+- icon: linkedin
+  icon_pack: fab
   link: https://www.linkedin.com/in/martin-oywa-31b479166/
 - icon: github
   icon_pack: fab

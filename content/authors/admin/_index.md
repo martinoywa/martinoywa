@@ -22,9 +22,11 @@ bio: My research interests include Deep Learning, Computer Vision and NLP.
 
 interests:
 - Deep Learning, AI, Python
+- PyTorch
 - Computer Vision
 - Natural Language Processing (NLP)
 - Tech Books
+- AWS
 
 education:
   courses:

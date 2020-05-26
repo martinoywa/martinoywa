@@ -1,7 +1,7 @@
 ---
 title: Last day of the Indaba 2019 at Kenyatta University
 summary: DLIndaba2019 SautiYetu
-date: 2019-08-30T23:23:17+03:00
+lastmod: 2019-08-30T23:23:17+03:00
 
 reading_time: true
 share: true
@@ -11,7 +11,7 @@ comments: true
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "static/img/indaba_2019/indaba_1.jpeg"
+  image: static/img/indaba_2019/indaba_1.jpeg
 ---
 
 

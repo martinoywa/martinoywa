@@ -11,7 +11,7 @@ comments: true
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: indaba_2019/indaba_1.jpeg
+  image: "/indaba_2019/indaba_1.jpeg"
 ---
 
 

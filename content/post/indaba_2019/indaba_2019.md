@@ -8,14 +8,11 @@ share: true
 profile: true
 comments: true
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: "/indaba_2019/indaba_1.jpeg"
-
 image:
-  focal_point: Left
-  priview_only: true
+  placement: 1
+  focal_point: "Left"
+  priview_only: false
+  alt_text: "Me holding the Zindi Cube"
 ---
 
 
@@ -28,7 +25,5 @@ The Indaba also gave me a chance to meet people from all sorts of fields, like E
 Now for the second part. What does the Indaba mean to me now? At the beginning, while I was applying for the Indaba, I thought it was just another global convetion where I get to attend and just listen to talks, but now that I actually got to experience it, the Indaba is far more greater than that. It’s community. A community filled with people from all walks of life, who gather to inspire each other, grow with each other, and share their ideas of how all of us can use AI for the greater good. It’s a safe space for allowing people to find and share their voice.
 
 Our theme this year was SAUTI YETU(OUR VOICE), and for sure, I did, find my voice.
-
-![](/indaba_2019/indaba_4.jpeg)
 
 As for the Indaba 2020 Tunisia, I’m on my way! #DLIndaba2019 #SautiYetu

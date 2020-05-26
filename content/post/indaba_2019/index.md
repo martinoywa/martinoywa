@@ -13,6 +13,11 @@ image:
   focal_point: "Left"
   priview_only: false
   alt_text: "Me holding the Zindi Cube"
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: "/indaba_2019/indaba_1.jpeg"
 ---
 
 

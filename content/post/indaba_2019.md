@@ -2,6 +2,7 @@
 title: Last day of the Indaba 2019 at Kenyatta University
 summary: DLIndaba2019 SautiYetu
 date: 2019-08-30T23:23:17+03:00
+authors: [admin]
 
 reading_time: true
 share: true
@@ -12,6 +13,10 @@ comments: true
 header:
   caption: ""
   image: "/indaba_2019/indaba_1.jpeg"
+
+image:
+  focal_point: Left
+  priview_only: true
 ---
 
 

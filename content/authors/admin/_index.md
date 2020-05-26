@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of CS and Deep Learning Engineer
+role: Undergraduate BSc. Computer Science and Deep Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Laikipia Universitty
+- name: Laikipia University
   url: "https://www.laikipia.ac.ke/"
 
 # Short bio (displayed in user profile at end of posts)

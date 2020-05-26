@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "London (UK)"
   date_start = "2020-07-06"
   date_end = ""
-  description = """Will receive real responsibilities to give you a sense of what you would be doing, day to day, as a full-time Goldman Sachs employee. Along with fellow interns, you will work alongside leaders within our industry. Worked in the Consumer and Investment
+  description = """Will receive real responsibilities to give me a sense of what I would be doing, day to day, as a full-time Goldman Sachs employee. Along with fellow interns, I will be working alongside leaders within their industry. Will be working in the Consumer and Investment
   Management Division."""
 
 [[experience]]

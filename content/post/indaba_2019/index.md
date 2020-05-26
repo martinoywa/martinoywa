@@ -11,7 +11,7 @@ comments: true
 image:
   placement: 1
   focal_point: "Left"
-  priview_only: false
+  priview_only: true
   alt_text: "Me holding the Zindi Cube"
 
 # Optional header image (relative to `static/img/` folder).

@@ -8,16 +8,16 @@ share: true
 profile: true
 comments: true
 
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: "/indaba_2019/indaba_1.jpeg"
+
 image:
   placement: 1
   focal_point: "Left"
   priview_only: true
   alt_text: "Me holding the Zindi Cube"
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: "/indaba_2019/indaba_1.jpeg"
 ---
 
 

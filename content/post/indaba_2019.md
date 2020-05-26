@@ -19,7 +19,7 @@ Today was the last day of the Indaba 2019 at Kenyatta University which began on 
 
 Let’s get to the first part. I’ve always been a guy with really crazy ideas as to what I want to do with any kind of knowledge or information I have, even though, some still can’t be implemented, at least that’s what I thought. Through the Indaba I got a chance to meet people who had crazier ideas, which btw, most were able to completely implement, while others were still being worked on. I got to understand that every idea, no matter how crazy it seems is worth pursing.
 
-![](/img/indaba_2019/indaba_4.jpeg)
+![](/indaba_2019/indaba_4.jpeg)
 
 The Indaba also gave me a chance to meet people from all sorts of fields, like Engineering, Computer Science, and Medicine, just to mention a few. Also met people at different levels in education who really motivated me and gave me a chance to tell them my story and what I was working on, which to me was a really great deal, to have a voice. Another really great achievement for me, well apart from solving the Zindi Cube Challenge, was that for the first time, I got a chance to be a mentor. As the Indaba was taking place, we also had a hackathon for teens who are into AI(Artificial Intelligence), the IndabaX Teens in AI Africa Hackathon. This program was an opportunity for me to inspire others as I was inspired to make a difference in the community be leveraging various technologies, in this case AI.
 

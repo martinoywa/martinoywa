@@ -17,7 +17,7 @@ image:
 
 Take for the example the Laptop Battery Life problem in HackerRank (https://www.hackerrank.com/challenges/battery/problem). From the problems description, it’s obvious that it’s a regression problem, and most of us would most definitely jump straight to creating model or using rather complex algorithms to try and solve it, like I almost did.
 
-![](/static/img/in_plot/in_plot_1.png)
+![](static/img/in_plot/in_plot_1.png)
 
 So after being frustrated with trying to figure out how I would load and preprocess the data on HackerRank, I decided to just use LibreOfficeCalc, and plot a graph to “just” check out the data. Guess was I found out, all values basically double until 4 on the x axis, where they just amounted to 8. Check the header image.
 

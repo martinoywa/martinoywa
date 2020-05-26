@@ -12,8 +12,8 @@ image:
   placement: 1
   caption: Photo by [Vyacheslav Polonski, PhD](https://medium.com/@drpolonski/can-we-teach-morality-to-machines-three-perspectives-on-ethics-for-artificial-intelligence-64fe479e25d3)
   focal_point: "Left"
-  priview_only: true
-  alt_text: "Me holding the Zindi Cube"
+  priview_only: false
+  alt_text: ""
 ---
 
 AI has aroused both excitement and fear over the past couple of years with everyone trying to predict its effects from either a scientific point or a place of fear…

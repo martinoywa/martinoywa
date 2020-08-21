@@ -17,32 +17,42 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-# [[experience]]
-#  title = "Summer Analyst Intern"
-#  company = "Goldman Sachs"
-#  company_url = "https://www.goldmansachs.com/"
-#  location = "London (UK)"
-#  date_start = "2020-07-06"
-#  date_end = ""
-#  description = """Will receive real responsibilities to give me a sense of what I would be doing, day to day, as a full-time Goldman Sachs employee. Along with fellow interns, I will be working alongside leaders within their industry. Will be working in the Consumer and Investment
-#  Management Division."""
+
 
 [[experience]]
-  title = "Student Ambassador"
+  title = "Developer Student Clubs Lead Laikipia University"
+  company = "Google"
+  company_url = ""
+  location = "Nyahururu (KE)"
+  date_start = "2020-08-18"
+  date_end = ""
+  description = """Fostering collaboration among developers and aspiring developers."""
+
+[[experience]]
+  title = "Summer Analyst"
+  company = "Goldman Sachs"
+  company_url = "https://www.goldmansachs.com/"
+  location = "London (UK)"
+  date_start = "2020-07-06"
+  date_end = "2020-08-07"
+  description = """Software Engineering intern in the Consumer and Investment Management Division."""
+
+[[experience]]
+  title = "Student Ambassador Laikipia University"
   company = "AWS Educate"
   company_url = "https://aws.amazon.com/education/awseducate/"
   location = "Nyahururu (KE)"
   date_start = "2020-04-30"
   date_end = ""
-  description = """Developing students skills in deploying their software on the Cloud."""
+  description = """Developing students skills in deploying their software on the AWS cloud."""
 
 [[experience]]
-  title = "Machine Learning Engineer"
-  company = "Developer Student Clubs"
+  title = "Developer Student Clubs Laikipia University ML Engineer"
+  company = "Google"
   company_url = ""
   location = "Nyahururu (KE)"
   date_start = "2019-09-02"
   date_end = "2020-04-30"
-  description = """Technical lead in Machine Learning for DSC Laikipia University chapter, where I mentor and tutor student interested in the broader field of Artificial Intelligence."""
+  description = """Technical lead in Machine Learning for DSC Laikipia University chapter, where I mentored and tutored students interested in the broader field of Artificial Intelligence."""
 
 +++

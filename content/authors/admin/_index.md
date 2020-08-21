@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a student of Computer Science at Laikipia University. My research interests include Deep Learning, Computer Vision and NLP. I lead the AWS Educate Student Club at the campus, which aims at developing students skills in deploying their software on the Cloud.
+I'm a student of Computer Science at Laikipia University. My research interests include Deep Learning, Computer Vision and NLP.

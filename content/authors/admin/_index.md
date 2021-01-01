@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate BSc. Computer Science and Deep Learning Engineer
+role: Student of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.laikipia.ac.ke/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Deep Learning Engineer.
+bio:  Student of Computer Science
 
 interests:
 - Deep Learning

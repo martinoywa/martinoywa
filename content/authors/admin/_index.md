@@ -24,6 +24,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Natural Language Processing (NLP)
+- Music Emoition Recognition using Deep Learning
 
 education:
   courses:

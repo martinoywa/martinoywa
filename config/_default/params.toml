@@ -282,5 +282,5 @@ plugins_js  = []
   netlify_cms = true
 
 
-[icon.pack]
+[icon_pack]
   ai = true

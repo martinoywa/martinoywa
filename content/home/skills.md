@@ -1,5 +1,12 @@
-widget: featurette
-headless: true  # This file represents a page section.
++++
+# Experience widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Skills"
+subtitle = ""
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -31,3 +38,4 @@ feature:
     icon_pack: fab
     name: AWS
     description: 50%
++++

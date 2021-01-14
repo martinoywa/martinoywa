@@ -21,8 +21,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Developer Student Clubs Lead Laikipia University"
-  company = "Google"
-  company_url = ""
+  company = "Google Developers"
+  company_url = "https://dsc.community.dev/laikipia-university"
   location = "Nyahururu (KE)"
   date_start = "2020-08-18"
   date_end = ""

@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6dd696f9-8bcf-4281-9575-abeaa52b0b43/deploy-status)](https://app.netlify.com/sites/martinoywa/deploys)
+![](https://komarev.com/ghpvc/?username=martinoywa&color=blue)

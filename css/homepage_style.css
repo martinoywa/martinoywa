@@ -125,4 +125,11 @@ hr {
 	width: 200px;
 }
 
-
+.fa {
+  padding-right: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  color: #FFFFFF;
+}

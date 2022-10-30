@@ -9,6 +9,11 @@ Some of my favourite tools include the following:
 - Flask
 - SageMaker (this fellow here is new to the crew 😅)
 
+Learning:
+- Mathematics for Machine Learning
+- AWS
+- AirFlow
+
 
 [![wakatime](https://wakatime.com/badge/user/f5e0ae39-026a-48dd-9f02-dbc0ccb66f37.svg)](https://wakatime.com/@f5e0ae39-026a-48dd-9f02-dbc0ccb66f37)
 ![](https://komarev.com/ghpvc/?username=martinoywa&color=blue)

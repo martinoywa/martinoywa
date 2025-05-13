@@ -2,7 +2,7 @@
 
 I'm Martin, a human being 🤖. I love working with Deep Neural Networks.
 
-Currently playing around with LLMs. 🚀
+Currently playing around with LLMs and Computer Vision. 🚀
 
 Tools: Python, PyTorch, FastAPI, LangChain, LLama e.t.c
 

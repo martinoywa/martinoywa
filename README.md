@@ -2,9 +2,11 @@
 
 I'm Martin, a human being 🤖. I love working with Deep Neural Networks.
 
-Currently playing around with LLMs and Computer Vision. 🚀
+Currently researching the **Effectiveness of Singing Voice Timbre Transfer for AMT**.
 
-Tools: Python, PyTorch, FastAPI, LangChain, LLama e.t.c
+This is the second project on AI and Music [[1](https://github.com/martinoywa/MERA)] that I'm doing! Guess this might be my thing lol! 😄
+
+Tools: Python, PyTorch, FastAPI, LangChain, and many other DL toolings.
 
 [![wakatime](https://wakatime.com/badge/user/f5e0ae39-026a-48dd-9f02-dbc0ccb66f37.svg)](https://wakatime.com/@f5e0ae39-026a-48dd-9f02-dbc0ccb66f37)
 ![](https://komarev.com/ghpvc/?username=martinoywa&color=blue)

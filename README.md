@@ -2,9 +2,9 @@
 
 I'm Martin, a human being 🤖. I love working with Deep Neural Networks.
 
-Currently researching the **Effectiveness of Singing Voice Timbre Transfer for AMT**.
+Currently researching the **Effectiveness of Singing Voice Timbre Transfer for AMT**, and exploring **Open Source** through [HacktoberFest](https://hacktoberfest.com).
 
-This is the second project on AI and Music [[1](https://github.com/martinoywa/MERA)] that I'm doing! Guess this might be my thing lol! 😄
+This is the second project on AI and Music ([MERA](https://github.com/martinoywa/MERA)) that I'm doing! Guess this might be my thing lol! 😄
 
 Tools: Python, PyTorch, FastAPI, LangChain, and many other DL toolings.
 
